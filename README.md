@@ -55,7 +55,7 @@ The project is organized into clear layers:
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="assets/screenshots/dotohome.jpg" width="250" />
+  <img src="assets/screenshots/todohome.jpg" width="250" />
   <img src="assets/screenshots/active.jpg" width="250" />
   <img src="assets/screenshots/done.jpg" width="250" />
 </p>
